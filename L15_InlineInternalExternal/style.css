@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: white;
+}
+p {
+    color: white;
+}
+
+#jags {
+    color: yellow;
+}
+
+#jags2 {
+    color: red;
+}
+
+#jags3 {
+    color: green;
+}
+
+#jags4 {
+    color: blue;
+}
+
+.odd {
+    color: orange;
+}
+.even {
+    color: purple;
+}
+ 
