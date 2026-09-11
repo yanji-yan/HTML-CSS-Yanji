@@ -1,0 +1,15 @@
+body {
+    background-color: slategray;
+}
+#y1 {
+    color: lightblue;
+}
+#y2 {
+    color: hsl(120, 100%, 50%);
+}
+#y3 {
+    color: #ebd834;
+}
+#y4 {
+    color: rgb(54, 70, 110);
+}
