@@ -1,0 +1,52 @@
+h1 {
+    border-style: solid;
+    border-width: 3;
+    
+}
+#y1 {
+    border-style: dotted;
+    border-color: green
+}
+#y2 {
+    border-style: dashed;
+}
+#y3 {
+    border-style: double;
+}
+#y4 {
+    border-style: groove;
+    border-radius: 10px;
+}
+#y5 {
+    border-style: ridge;
+}
+#y6 {
+    border-style: inset;
+}
+#y7 {
+    border-style: outset;
+}
+#y8 {
+    border: 3px solid blue;
+}
+#y9 {
+    border-bottom: 3px solid red;
+}
+#y10 {
+    border-top: 3px solid yellow;
+}
+
+#y11 {
+    border-left: 3px solid green;
+}
+#y12 {
+    border-right: 3px solid blue
+}
+#y13 {
+    border-bottom: 3px solid lightgoldenrodyellow;
+    border-top: 3px solid lightgreen;
+    border-left: 3px solid lightsalmon;
+    border-right: 3px solid lightcoral;
+
+}
+/* border-style: none if naturally has a border
