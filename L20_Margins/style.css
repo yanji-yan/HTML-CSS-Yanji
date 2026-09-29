@@ -1,0 +1,26 @@
+#y1 {
+    margin: 0px; /* deletes the margin in the browser */
+}
+
+.box {
+    border: 5px solid;
+    font-size: 5em;
+    width: 250px;
+    height: 250px;
+    /* can put margin here so all of the class get the same margin */
+}
+
+#box1 {
+    background-color: red;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+/* margin all sides is only margin: 1px;
+use margin auto it will autoamtically go to the selected margin  */
+
+#box2 {
+    background-color: blue;
+    margin-right: 50px;
+    margin-left: 50px;
+}
